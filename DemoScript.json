@@ -1,0 +1,16 @@
+{
+	"name":"demoscript",
+	"clsid":"7d6d690f-9bc8-4556-84b6-de78cda25ca0",
+    "author":"EpicMo",
+	"version":"1.0.0",
+	"description":"This is a demo js description",
+	"coreRelative":"v1",
+	"relativeChains":[
+	],
+    "hookUrls":[
+        {
+            "regex":"emg.epicmo.cn/*",
+            "exportFunctionName":"emgEdit"
+        }
+    ]
+}
